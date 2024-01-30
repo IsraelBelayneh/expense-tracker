@@ -1,3 +1,5 @@
+This app is all about expense tracker . It gives cloud based expense management features for its users. github contains only partial front end codes of the system
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
